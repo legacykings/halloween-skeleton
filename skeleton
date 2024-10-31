@@ -6,7 +6,7 @@ pygame.init()
 # Screen settings
 width, height = 400, 400
 screen = pygame.display.set_mode((width, height))
-pygame.display.set_caption("Crashout Skull")
+pygame.display.set_caption("Skull")
 
 # Colors
 white = (255, 255, 255)
